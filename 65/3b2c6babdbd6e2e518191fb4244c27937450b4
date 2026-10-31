@@ -1,0 +1,25 @@
+.gitignore
+  s_b4a8e4b5b9f3e3::t_bc539ebc03be07 1-6
+LICENSE
+  s_b4a8e4b5b9f3e3::t_e1c19ab9df58bf 1-21
+README.md
+  s_b4a8e4b5b9f3e3::t_2f952e73472d3f 1-94
+fritzcap.py
+  s_b4a8e4b5b9f3e3::t_47dd7c69370ff4 1-248
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "653b2c6babdbd6e2e518191fb4244c27937450b4",
+  "prompts": {},
+  "sessions": {
+    "s_b4a8e4b5b9f3e3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7cd9cdd2-2b1a-4bd1-8f21-244a0f96a54b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Melvin Rinkleff <melvin.rinkleff@gmx.de>"
+    }
+  }
+}
